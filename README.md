@@ -5,8 +5,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/zeze1004?pet-id=625134001276568842"
-    width="400"
-    height="120"
+    width="550"
+    height="300"
   />
 </a>
 
