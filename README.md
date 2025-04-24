@@ -18,6 +18,8 @@
 ### 누구나 쉽게 공시를 볼 수 있다! <가제: 가치투자의 시작>
 
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/c095bcf3-6fff-4dac-bf7d-128e35ccd34e" />
+
+
 재무제표 보실 수 있나요? @_@ 어렵다 어려워~
 증권앱에서 제공하는 정보는 쏘 빈약!
 필수적이고 핵심적인 정보만 쏙쏙 보고싶다!
