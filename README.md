@@ -14,6 +14,7 @@
  	
 ### 안녕하세요👋 Jr.Software Engineer 김소정입니다.
 ![Image](https://github.com/user-attachments/assets/92cd5846-2550-4f23-a49c-b0b1241cf12d)
+
 다람쥐를 좋아합니다!
 
 <!--
