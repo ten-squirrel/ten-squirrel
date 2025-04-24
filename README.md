@@ -6,7 +6,7 @@
   <img
     src="https://render.gitanimals.org/lines/zeze1004?pet-id=625134001276568842"
     width="550"
-    height="300"
+    height="220"
   />
 </a>
 
