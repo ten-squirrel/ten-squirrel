@@ -11,7 +11,6 @@
   />
 </a>
 
-<div></div>  
  	
 ### 안녕하세요👋 Jr.Software Engineer 김소정입니다.
 ![Image](https://github.com/user-attachments/assets/92cd5846-2550-4f23-a49c-b0b1241cf12d)
@@ -27,3 +26,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL&langs_count=8&layout=compact&exclude_repo=python-openstackclient)](https://github.com/anuraghazra/github-readme-stats)	
 
+</div>
