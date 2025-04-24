@@ -1,4 +1,3 @@
-<div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SO-JUNG'sGithub&fontSize=70)
  
@@ -26,4 +25,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL&langs_count=8&layout=compact&exclude_repo=python-openstackclient)](https://github.com/anuraghazra/github-readme-stats)	
 
-</div>
