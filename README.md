@@ -16,9 +16,9 @@
 
 - 오픈소스에 관심이 많아요!
   
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/78ba37a1-3774-4fb0-8151-ff1e79b95f05" />
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/78ba37a1-3774-4fb0-8151-ff1e79b95f05" />
   
-  Redis 자바 클라이언트 오픈소스인 Lettuce의 bug fix 기여를 했습니다.
+  Redis 자바 클라이언트 오픈소스인 [Lettuce](https://github.com/redis/lettuce)의 bug fix 기여를 했습니다.
 
   쿠버네티스는 코드 보다가 주석의 오타를 수정한 기여도 했습니다. (매의 눈!)
 
@@ -33,11 +33,16 @@
 
 재무제표 보실 수 있나요? @_@ 어렵다 어려워~
 
-증권앱에서 제공하는 정보는 쏘 빈약!
+증권앱에서 제공하는 정보는 빈약하고 뭐가 뭔지 모르겠다!
+
+![IMG_88DB76674571-1](https://github.com/user-attachments/assets/2934f825-3c20-4acb-b8fc-2f3058c9b7c5)
+
 
 필수적이고 핵심적인 정보만 쏙쏙 보고싶다!
 
 Dart(전자공시 제공 서비스) Open API를 이용해 간단하지만 중요한 정보를 계산해서 보여줍니다.
+
+내가 투자하고 싶은 회사의 성장
 
 
 ---
