@@ -4,8 +4,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ten-squirrel&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/ten-squirrel"
-    width="600"
-    height="120"
+    width="800"
+    height="220"
   />
 </a>
   
@@ -34,7 +34,8 @@
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/ba2b9790-9ac4-4cfc-abd4-89637c1689c8" />
 
 </br>
-  함께 즐겁게 공부하고 만들어요.  
+</br>
+  함께 즐겁게 공부하고 만들어갑시다.  
   
 </br>
 </br>
