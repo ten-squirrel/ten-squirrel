@@ -35,7 +35,7 @@
 
 증권앱에서 제공하는 정보는 빈약하고 뭐가 뭔지 모르겠다!
 
-![IMG_88DB76674571-1](https://github.com/user-attachments/assets/2934f825-3c20-4acb-b8fc-2f3058c9b7c5)
+<img src="https://github.com/user-attachments/assets/2934f825-3c20-4acb-b8fc-2f3058c9b7c5" alt="IMG_88DB76674571-1" width="320">
 
 
 필수적이고 핵심적인 정보만 쏙쏙 보고싶다!
