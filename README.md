@@ -26,23 +26,22 @@
 
 
 ## 프로젝트 같이 해요!
-### 누구나 쉽게 공시를 볼 수 있다! <가제: 가치투자의 시작>
+### 누구나 쉽게 공시를 볼 수 있다 <가제: 가치투자의 시작>
 
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/c095bcf3-6fff-4dac-bf7d-128e35ccd34e" />
 
 
 재무제표 보실 수 있나요? @_@ 어렵다 어려워~
 
-증권앱에서 제공하는 정보는 빈약하고 뭐가 뭔지 모르겠다!
+증권앱에서 제공하는 정보는 뭐가 뭔지 모르겠다!
 
-![IMG_88DB76674571-1](https://github.com/user-attachments/assets/2934f825-3c20-4acb-b8fc-2f3058c9b7c5)
+<img width="395" alt="무제" src="https://github.com/user-attachments/assets/9727a0fe-d416-4121-b9f5-02076c17c0ad" />
 
-
-필수적이고 핵심적인 정보만 쏙쏙 보고싶다!
+회사가 성장하고 있는지 연속적인 핵심 정보만 쏙쏙 보고싶다!
 
 Dart(전자공시 제공 서비스) Open API를 이용해 간단하지만 중요한 정보를 계산해서 보여줍니다.
 
-내가 투자하고 싶은 회사의 성장
+내가 투자하고 싶은 회사의 성장을 눈으로 확인하세요~
 
 
 ---
