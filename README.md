@@ -40,7 +40,7 @@
 </br>
   
 ## 프로젝트 같이 해요!
-### 누구나 쉽게 공시를 볼 수 있다 <가제: 가치투자를 같이해요>
+### 누구나 쉽게 공시를 볼 수 있다 <가제: 가치투자 같이해요>
 - [러프한 기획 문서](https://www.notion.so/kimsojung/1d5075a8840480e8939de7fe341008fe?pvs=4)
 
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/c095bcf3-6fff-4dac-bf7d-128e35ccd34e" />
