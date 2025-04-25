@@ -25,7 +25,7 @@
 
 
 
-## 프로젝트 소개
+## 프로젝트 같이 해요!
 ### 누구나 쉽게 공시를 볼 수 있다! <가제: 가치투자의 시작>
 
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/c095bcf3-6fff-4dac-bf7d-128e35ccd34e" />
