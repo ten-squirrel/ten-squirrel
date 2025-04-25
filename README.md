@@ -12,7 +12,14 @@
 
  	
 ## 안녕하세요👋 Jr.Software Engineer 김소정입니다.
-저는...어떤 사람인가요?
+저는 어떤 사람인가요?
+
+- 오픈소스에 관심이 많아요!
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/78ba37a1-3774-4fb0-8151-ff1e79b95f05" />
+  Redis 자바 클라이언트 오픈소스인 Lettuce의 bug fix 기여를 했습니다.
+
+  쿠버네티스는 코드 보다가 주석의 오타를 수정한 기여도 했습니다. (매의 눈!)
+
 
 
 
