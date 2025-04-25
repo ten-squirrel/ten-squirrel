@@ -29,6 +29,7 @@
   <img width="404" alt="image" src="https://github.com/user-attachments/assets/ba2b9790-9ac4-4cfc-abd4-89637c1689c8" />
 
   1년간 온라인 개발 커뮤니티에서 모각코 교육 매니저로 일하고 있어요!
+  
   함께 즐겁게 공부하고 만들어요.
 
 
