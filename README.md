@@ -48,9 +48,11 @@
 
 재무제표 보실 수 있나요? 😳😳😳 어렵다 어려워~
 
-</br?
+</br>
 
 <img width="395" alt="무제" src="https://github.com/user-attachments/assets/9727a0fe-d416-4121-b9f5-02076c17c0ad" />
+
+
 증권앱에서 제공하는 정보는 뭐가 뭔지 모르겠습니다.
 
 </br>
